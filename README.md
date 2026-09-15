@@ -8,9 +8,9 @@ I have developed a growing passion for using data to understand problems, uncove
 
 I recently completed my Data Analytics program, which has given me the opportunity to develop practical experience working with data and applying analytical thinking to real-world problems. My major interest in analytics is the process of taking raw information, asking the right questions, finding the story within the data, and turning those findings into insights that people can actually use.
 
-My background in Economics and Accounting has strengthened my analytical thinking, financial insight, and attention to detail. I enjoy exploring data, uncovering trends, and understanding the business story behind the numbers. I believe that this combination allows me to look beyond the numbers and consider the wider business context behind them. I really enjoy exploring data, identifying trends and patterns, and presenting findings in a clear and meaningful way. I’ve also completed ALX Africa’s Professional Foundations course, and I’m focused on building practical experience and turning data into meaningful insights for better business decisions.
+My background in Economics and Accounting has strengthened my analytical thinking, financial insight, and attention to detail. I enjoy exploring data, uncovering trends, and understanding the business story behind the numbers. I believe that this combination allows me to look beyond the numbers and consider the wider business context behind them . I’ve also completed ALX Africa’s Professional Foundations course, and I’m focused on building practical experience and turning data into meaningful insights for better business decisions
 
-As I build my career in Data Analytics, I’m focused on continuing to learn, working on practical projects, and developing the ability to turn data into insights that create real value. I’m excited to keep growing at the intersection of data, business, economics, and finance.
+On this course of my career in Data Analytics, I’m very focused on continuing to learn by working on practical projects, and developing the ability to turn data into insights that create real value. I’m excited to keep growing at the intersection of data, business, economics, and finance.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics and Accounting .
 
