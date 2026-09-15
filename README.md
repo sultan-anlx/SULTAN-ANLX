@@ -2,7 +2,9 @@
  Data Analyst | Economics | Accounting & Finance
 
 ## ABOUT ME
-I’m a Data Analyst with a background in Economics and Accounting. I am currently on track to completing my professional program with the Institute Of Chattered Accountants of Nigeria. I have developed a growing passion for using data to understand problems, uncover insights, and support better business decisions.
+I’m a Data Analyst with an undergraduate degree in Economics and a background in Accounting. I am a certified member of the Nigerian Economic Society(NES) and have completed the Accounting Technicians Scheme West Africa (ATSWA) program, qualifying me as an Associate Accounting Technician. I am also currently on track to becoming a Chartered Accountant with the Institute of Chartered Accountants of Nigeria (ICAN).
+
+I have developed a growing passion for using data to understand problems, uncover insights, and support better business decisions. I recently completed a Data Analytics program, gaining practical experience working with data and applying analytical thinking to real-world problems.
 
 I recently completed my Data Analytics program, which has given me the opportunity to develop practical experience working with data and applying analytical thinking to real-world problems. My major interest in analytics is the process of taking raw information, asking the right questions, finding the story within the data, and turning those findings into insights that people can actually use.
 
