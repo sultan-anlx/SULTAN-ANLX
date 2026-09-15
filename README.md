@@ -2,7 +2,7 @@
  Data Analyst | Economics | Accounting & Finance
 
 ## ABOUT ME
-I’m a Data Analyst with a background in Economics and Accounting. i am currently on track to completing my professional program with the Institute Of Chattered Accountants of Nigeria. i Have developed a growing passion for using data to understand problems, uncover insights, and support better business decisions.
+I’m a Data Analyst with a background in Economics and Accounting. i am currently on track to completing my professional program with the Institute Of Chattered Accountants of Nigeria. I have developed a growing passion for using data to understand problems, uncover insights, and support better business decisions.
 
 I recently completed my Data Analytics program, which has given me the opportunity to develop practical experience working with data and applying analytical thinking to real-world problems. My major interest in analytics is the process of taking raw information, asking the right questions, finding the story within the data, and turning those findings into insights that people can actually use.
 
